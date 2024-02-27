@@ -22,7 +22,7 @@ Welcome to DatingApp, an avant-garde dating app built using Kotlin Multiplatform
 
 - **Kotlin Multiplatform Mobile (KMM)**: The core technology enabling the sharing of business logic and certain UI components across iOS and Android platforms.
 
-- **Jetpack Compose and SwiftUI**: Used for building the shared UI components, ensuring a modern and efficient way to construct and manage the app's interface.
+- **Compose Multiplatform**: Used for building the shared UI components, ensuring a modern and efficient way to construct and manage the app's interface.
 
 - **Apollo GraphQL Client**: For interacting with GraphQL APIs, managing data operations, including real-time chat functionalities, and enabling a powerful mechanism for state management within the Compose framework.
 
